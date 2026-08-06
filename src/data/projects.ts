@@ -93,8 +93,8 @@ export const projectsData: Project[] = [
   },
   {
     id: "mihwar-archiving-system",
-    imageFileName: "محور.png",
-    publicImagePath: "/images/محور.png",
+    imageFileName: "mihwar.png",
+    publicImagePath: "/images/mihwar.png",
     name: "نظام محور للأرشفة وإدارة الوثائق (Mihwar System)",
     description: "مشروع نظام أرشفة وإدارة مستندات إلكتروني متقدم مخصص للمؤسسات والشركات لتنظيم وتتبع الأرشيف الورقي والرقمي. يهدف النظام إلى إلغاء المعاملات الورقية وتأمين الوثائق الحساسة وفق أعلى معايير التشفير والأذونات والمراحل الإدارية (Workflow Management).",
     keyFeatures: [
